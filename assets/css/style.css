@@ -1,0 +1,30 @@
+#dataTable_filter label:first-child{
+
+    display: inline-block; 
+    width: 100%;
+
+}
+
+#tabest_filter label:first-child{
+
+    display: inline-block; 
+    width: 100%;
+
+}
+
+#dataTable_filter label:first-child > input{
+
+    width: 100%;
+}
+
+#tabest_filter label:first-child > input{
+
+    width: 100%;
+}
+
+
+
+#btntoogle{
+
+    text-align: right;
+}
